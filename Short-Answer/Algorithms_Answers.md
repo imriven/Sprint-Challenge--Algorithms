@@ -13,8 +13,6 @@ c)O(n) - number of operations increases proportionally related to size of input
 ## Exercise II
 
 
-building = n
-eggs = plenty
 
 Building - 
 We have a building of undisclosed floors
